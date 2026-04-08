@@ -1,0 +1,4 @@
+../Core/Src/IO_driver.c:9:6:IO_İnitialization	16	static
+../Core/Src/IO_driver.c:37:6:IO_Status_Control	16	static
+../Core/Src/IO_driver.c:46:6:IO_İnput_Control_With_Debounce	16	static
+../Core/Src/IO_driver.c:81:6:IO_Output_Control	16	static
