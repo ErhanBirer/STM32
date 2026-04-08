@@ -1,0 +1,8 @@
+../Core/Src/main.c:116:15:GPIO_Read_With_Debounce	6
+../Core/Src/main.c:159:5:main	3
+../Core/Src/main.c:231:6:SystemClock_Config	4
+../Core/Src/main.c:289:13:MX_ETH_Init	2
+../Core/Src/main.c:338:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:373:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:408:13:MX_GPIO_Init	1
+../Core/Src/main.c:468:6:Error_Handler	1

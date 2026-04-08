@@ -1,0 +1,15 @@
+../Core/Src/lcd_driver.c:10:6:LCD_Initialization	16	static
+../Core/Src/lcd_driver.c:47:6:LCD_Send_InitNibble	32	static
+../Core/Src/lcd_driver.c:59:6:LCD_Send_Command	32	static
+../Core/Src/lcd_driver.c:77:6:LCD_Clear	16	static
+../Core/Src/lcd_driver.c:84:6:LCD_Home	16	static
+../Core/Src/lcd_driver.c:91:6:LCD_Set_Cursor	24	static
+../Core/Src/lcd_driver.c:104:6:LCD_Send_String	16	static
+../Core/Src/lcd_driver.c:113:6:LCD_Send_Data	32	static
+../Core/Src/lcd_driver.c:129:6:LCD_Backlight_On	16	static
+../Core/Src/lcd_driver.c:134:6:LCD_Backlight_Off	16	static
+../Core/Src/lcd_driver.c:140:6:LCD_Printf	92	static
+../Core/Src/lcd_driver.c:149:6:LCD_Scroll_Text	48	static
+../Core/Src/lcd_driver.c:170:6:LCD_Cursor_Show	16	static
+../Core/Src/lcd_driver.c:175:6:LCD_Cursor_Hide	16	static
+../Core/Src/lcd_driver.c:181:6:LCD_Send_Char	16	static

@@ -1,0 +1,6 @@
+../Core/BTK_Driver/Circular_Buffer/Src/circual_buffer.c:4:6:Circular_Buffer_Init	16	static
+../Core/BTK_Driver/Circular_Buffer/Src/circual_buffer.c:12:6:Circular_Buffer_Is_Empty	16	static
+../Core/BTK_Driver/Circular_Buffer/Src/circual_buffer.c:17:6:Circular_Buffer_Is_Fully	16	static
+../Core/BTK_Driver/Circular_Buffer/Src/circual_buffer.c:23:6:Circular_Buffer_Enqueue	16	static
+../Core/BTK_Driver/Circular_Buffer/Src/circual_buffer.c:35:6:Circular_Buffer_Dequeue	16	static
+../Core/BTK_Driver/Circular_Buffer/Src/circual_buffer.c:47:10:Circular_Buffer_Count	16	static

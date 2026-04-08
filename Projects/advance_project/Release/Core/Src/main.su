@@ -1,0 +1,5 @@
+../Core/Src/main.c:93:15:GPIO_Read_Without_Debounce	8	static
+../Core/Src/main.c:112:15:GPIO_Read_With_Debounce	24	static
+../Core/Src/main.c:215:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:153:5:main	56	static,ignoring_inline_asm
+../Core/Src/main.c:452:6:Error_Handler	0	static,ignoring_inline_asm

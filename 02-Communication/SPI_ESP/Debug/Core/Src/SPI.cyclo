@@ -1,0 +1,2 @@
+../Core/Src/SPI.c:12:6:HAL_SPI_RxCpltCallback	2
+../Core/Src/SPI.c:19:6:ESP_SPI_Start_Receive_IT	1

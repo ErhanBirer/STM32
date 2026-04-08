@@ -1,0 +1,5 @@
+../Core/BTK_Driver/dma_driver/Src/dma_driver.c:12:6:ADC_Initialization	24	static
+../Core/BTK_Driver/dma_driver/Src/dma_driver.c:32:6:ADC_DMA_Conversion	32	static
+../Core/BTK_Driver/dma_driver/Src/dma_driver.c:74:9:MAP_Voltage_To_Percentage	40	static
+../Core/BTK_Driver/dma_driver/Src/dma_driver.c:84:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/BTK_Driver/dma_driver/Src/dma_driver.c:93:6:HAL_ADC_ConvHalfCpltCallback	16	static

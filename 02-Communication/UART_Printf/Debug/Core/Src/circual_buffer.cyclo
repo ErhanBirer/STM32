@@ -1,0 +1,6 @@
+../Core/Src/circual_buffer.c:4:6:Circular_Buffer_Init	1
+../Core/Src/circual_buffer.c:12:6:Circular_Buffer_Is_Empty	1
+../Core/Src/circual_buffer.c:17:6:Circular_Buffer_Is_Fully	1
+../Core/Src/circual_buffer.c:23:6:Circular_Buffer_Enqueue	2
+../Core/Src/circual_buffer.c:35:6:Circular_Buffer_Dequeue	2
+../Core/Src/circual_buffer.c:47:10:Circular_Buffer_Count	2

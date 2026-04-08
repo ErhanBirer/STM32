@@ -1,0 +1,5 @@
+../Core/Src/uart_ex.c:9:6:UARTx_Init	24	static
+../Core/Src/uart_ex.c:22:6:UARTx_Write_Char	24	static
+../Core/Src/uart_ex.c:38:6:UARTx_Put_String	16	static
+../Core/Src/uart_ex.c:48:5:UARTx_Printf	284	static
+../Core/Src/uart_ex.c:61:6:UARTx_ReadLine	32	static

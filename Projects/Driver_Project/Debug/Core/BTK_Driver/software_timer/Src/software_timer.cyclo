@@ -1,0 +1,6 @@
+../Core/BTK_Driver/software_timer/Src/software_timer.c:13:6:software_timer_Init	1
+../Core/BTK_Driver/software_timer/Src/software_timer.c:20:6:software_set_time	1
+../Core/BTK_Driver/software_timer/Src/software_timer.c:28:10:software_timer_get_time	1
+../Core/BTK_Driver/software_timer/Src/software_timer.c:34:6:software_timer_check_elapsed_time	5
+../Core/BTK_Driver/software_timer/Src/software_timer.c:60:6:software_timer_stop	1
+../Core/BTK_Driver/software_timer/Src/software_timer.c:67:6:HAL_TIM_PeriodElapsedCallback	2
